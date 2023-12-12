@@ -85,4 +85,5 @@ finally:
         connection.close()
         print("MySQL connection closed")
 
-        #12/12/23
+        #12/12/23 Tuesday
+
